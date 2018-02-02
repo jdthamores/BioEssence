@@ -22,7 +22,7 @@ And respective BibTeX entry:
 @misc{Bio-Essence,
   author = {Amores, J., Hernandez, J., Dementyev, A. et. al,},
   title = {Bio-Essence: An Open Sourced Olfactory Wearable Display that Monitors Cardio-Respiratory Information},
-  year = {2017},
+  year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/jdthamores/bio-essence}},
