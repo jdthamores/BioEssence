@@ -26,7 +26,7 @@ And respective BibTeX entry:
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/jdthamores/bio-essence}},
-  commit = {}
+  commit = {279a64f7495950092e6867b955a630057821276f}
 }
 
 ------------------------------------------------------------------------------------------------------------------------------------------
