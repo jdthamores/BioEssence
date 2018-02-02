@@ -1,4 +1,4 @@
-# bio-essence
+# Bio-essence: A Physio-Olfactory Wearable Display 
 Bio-Essence is an open sourced olfactory wearable display that monitors cardio-respiratory information. It can be used during sleep or daytime. We provide the details of the Printed Circuit Board and electronic components, 3D printed case,  as well as the smartphone app.
 
 Cite our paper:
@@ -6,7 +6,8 @@ Submission in progress at the IEEE Engineering in Medicine and Biology Society.
 40th International Engineering in Medicine and Biology Conference.
 
 Cite our code:
-Amores, J., Hernandez, J., Dementyev, A. et. al, Bio-Essence, (2018), GitHub repository, https://github.com/jdthamores/bio-essence
+
+Amores, J., Hernandez, J., Dementyev, A. et. al, Bio-essence: A Physio-Olfactory Wearable Display, (2018), GitHub repository, https://github.com/jdthamores/bio-essence
 
 And respective BibTeX entry:
 
